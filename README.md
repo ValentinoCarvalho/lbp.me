@@ -21,7 +21,13 @@ https://www.onlinewebfonts.com/download/b6984b41bc20ae3aa8763d981c0602cf
 
 <img width="497" height="121" alt="image" src="https://github.com/user-attachments/assets/980392c3-c362-431a-9efa-b8997e3cd3e3" />
 https://fonts.adobe.com/fonts/eigerdals
-  
+
+
+background-color: #ffd580;
+opacity: 0.8;
+background-image:  linear-gradient(#ffa662 2px, transparent 2px), linear-gradient(90deg, #ffa662 2px, transparent 2px), linear-gradient(#ffa662 1px, transparent 1px), linear-gradient(90deg, #ffa662 1px, #ffd580 1px);
+background-size: 50px 50px, 50px 50px, 10px 10px, 10px 10px;
+background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
 <hr>
 
 <h2>Inspo</h2>
