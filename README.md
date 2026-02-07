@@ -30,7 +30,18 @@ background-size: 50px 50px, 50px 50px, 10px 10px, 10px 10px;
 background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
 <hr>
 
+<h2> Primeiro Objetivo </h2>
+
+![1 (1)](https://github.com/user-attachments/assets/1357886b-7322-4ec9-a926-dfb18faf3ef1)
+![2 (1)](https://github.com/user-attachments/assets/88ed9039-cbcc-40de-8e70-50f92ccf0fdf)
+![3](https://github.com/user-attachments/assets/aa3a3c9d-bc39-4f57-aa90-015a77832ae0)
+
+
+<hr>
+
 <h2>Inspo</h2>
 
 <img width="1280" height="3740" alt="image" src="https://github.com/user-attachments/assets/421218f2-fc5e-4f2c-b85b-f1dba5f29296" />
 https://www.webdesignmuseum.org/gallery/ilovecolors-in-2008
+
+
